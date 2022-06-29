@@ -1,0 +1,122 @@
+/*
+font-family: 'Be Vietnam Pro', sans-serif;
+*/
+
+body{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Be Vietnam Pro', sans-serif
+}
+.div-header{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    width:100vw;
+    height: 10vh;
+    font-size: 13px;
+}
+.ul-header{
+    display: flex;
+
+}
+ul{
+    list-style-type: none;
+}
+header nav ul li{
+    padding: 0px 30px;
+}
+
+
+button {
+    padding: 1rem 2.5rem;
+    background-color: #f3603b;
+    border: none;
+    border-radius: 5rem;
+    cursor: pointer;
+    transition: all 0.3s ease 0s;
+    color: rgb(255, 255, 255);
+    box-shadow:  0px 4px 7px rgba(0, 0, 0, 0.25);
+  }
+  
+  button:hover {
+    background-color: rgba(226, 114, 16, 0.7);
+}
+
+.asd{
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.middle-section{
+    display: flex;
+}
+
+h1{
+    font-size: 58px;
+}
+
+.first-p{
+    font-size: 16.5584px;
+}
+
+.first-art{
+    width: 40vw;
+}
+.manage{
+    font-size: 36px;
+}
+
+p{
+    font-size: 16px;
+}
+.middle-div{
+    display: flex;
+}
+.cards-title{
+    display: flex;
+    justify-content: center;
+}
+.Ali-Bravo{
+    display: flex;
+    justify-content: center;
+
+}
+.footer-section1{
+    display: flex;
+    justify-content: space-around;
+    background-color: #F3613C;
+}
+.white-button{
+    background-color: rgb(255, 255, 255);
+    color: #F3613C;
+}
+.cards-distribution{
+    display: flex;
+}
+.bottom-button{
+    display: flex;
+    justify-content: center;
+}
+.Ali-Bravo-Cards-Tittle{
+    display: flex;
+    justify-content: center;
+}
+.Avatar1{
+    width: 60px;
+    position: relative;
+    left: 385px;
+}
+.Avatar2{
+    width: 60px;
+    position: relative;
+    left: 419px;
+}
+.Avatar3{
+    width: 60px;
+    position: relative;
+    left: 380px;
+}
