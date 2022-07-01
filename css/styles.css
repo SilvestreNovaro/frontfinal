@@ -269,7 +269,8 @@ h1, h2, h3, h4, p {
 FOOTER
 */
 .container-footer {
-    display: block;
+    display: flex;
+    justify-content: space-around;
     padding: 1rem;
     background-color:rgba(30, 30, 38, 1);
     color: white; 
